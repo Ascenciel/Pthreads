@@ -1,0 +1,2 @@
+Baris pertama file teks.
+Baris kedua dibaca oleh thread.
